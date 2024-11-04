@@ -1,0 +1,159 @@
+.logo{
+    float:left;
+    width:100%;
+    background-color: whitesmoke;
+    
+}
+
+.topper{
+    max-width: 7%;
+    max-height:auto ;
+    float:left
+}
+
+.head-menu ul{
+    list-style:none;
+    font-size:30px;
+    margin:0 50px;
+}
+
+.menu1{
+    float:left;
+    padding:10px 50px;
+    color: black;
+}
+
+.menu1:hover{
+    color:white;
+    background:black;
+}
+
+.menu2:hover{
+    color:white;
+    background:black;
+}
+
+.menu3:hover{
+    color:white;
+    background:black;
+}
+
+a{
+    color:inherit;
+    text-decoration: none;
+}
+
+.videos{
+    color:white;
+    font-size:25px;
+}
+
+.topic-header{
+    color:white;
+    font-size:15px;
+}
+
+.menu2{
+    float:left;
+    padding:10px 50px;
+    color: black;
+}
+
+.menu3{
+    float:left;
+    padding:10px 50px;
+    color: black;
+}
+
+.topic-header{
+    text-align: center;
+    font-size:30px;
+}
+
+.topic{
+    text-align: center;
+}
+
+.html1{
+    max-width:40%;
+    height:auto;
+    border-radius: 10%;
+}
+
+.html2{
+    top:50px;
+    color:white;
+}
+
+.head-menu{
+    color: white;
+}
+
+.menu{
+    width:100%;
+    height:50px;
+    background-color:gray;
+}
+footer ul{
+    list-style:none;
+}
+
+body{
+    background-image:url(image-background.jpg);
+    background-size: cover;
+    background-blend-mode: darken;
+    background-color: rgba(0,0,0,0.5);
+    background-attachment: fixed;
+}
+
+.bury{
+    text-align: center;
+}
+.you1{
+    margin:5px 5px
+}
+
+.links{
+    color:white;
+}
+
+Result Skip Results Iframe
+EDIT ON
+.follow-me {
+  list-style: none;
+  margin: 0 0 -8px;
+  overflow: hidden;
+  padding: 0;
+}
+.follow-me li {
+  float: left;
+  margin: 0 8px 8px 0;
+  padding: 0;
+}
+.follow-me li a::before {
+  border-style: solid;
+  border-width: 1px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  color: #fff;
+  display: inline-block;
+  font-family: FontAwesome;
+  font-size: 16px;
+  height: 42px; /* Button height */
+  line-height: 42px; /* Button height */
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+  text-align: center;
+  width: 42px; /* Button width */
+}
+.follow-me li a[href*="instagram.com"]::before      { border-color: #125688; background-color: #125688; content: "\f16d"; }
+.follow-me li a[href*="twitter.com"]::before        { border-color: #55acee; background-color: #55acee; content: "\f099"; }
+.follow-me li a[href*="youtube.com"]::before        { border-color: #cd201f; background-color: #cd201f; content: "\f16a"; }
+.follow-me li a:hover::before {
+  background-color: #fff;
+}
+.follow-me li a[href*="instagram.com"]:hover::before      { color: #125688; }
+.follow-me li a[href*="twitter.com"]:hover::before        { color: #55acee; }
+.follow-me li a[href*="youtube.com"]:hover::before        { color: #cd201f; }
+
+
